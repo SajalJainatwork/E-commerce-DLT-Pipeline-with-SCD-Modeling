@@ -1,4 +1,8 @@
-![OIP](https://github.com/user-attachments/assets/9d6c7d61-a906-4311-a59f-a307f51c73d4)
+
+![Ecommerce-Website-Design-Feature-Image-scaled](https://github.com/user-attachments/assets/714e3417-f9da-4012-b81b-9fd844cc6374)
+![ezy-ecommerce-website-template](https://github.com/user-attachments/assets/7144fbb5-1d4a-4b3d-95cc-7ba4572fc6e8)
+
+![OIP (1)](https://github.com/user-attachments/assets/5b573b62-2808-466b-9997-563987a73540)
 
 # E-commerce-DLT-Pipeline-with-SCD-Modeling
 

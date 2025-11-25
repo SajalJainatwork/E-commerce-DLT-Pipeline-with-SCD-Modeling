@@ -105,9 +105,8 @@ This diagram outlines the end-to-end flow of data through our Bronze, Silver, an
 
 If you’re working on a Databricks project like this or facing any challenges, don’t hesitate to reach out. I’m happy to help or just chat about data engineering!
 
-- **Email:** [shahbajcse@gmail.com](mailto:shahbajcse@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/mdshahbaj](https://www.linkedin.com/in/mdshahbaj)
-- **Medium:** [https://medium.com/@shahbajcse](https://medium.com/@shahbajcse)
+- **Email:** [sajaljain.atwork@gmail.com](mailto:sajaljain.atwork@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/sajal-jain-3196b4240 ]([https://www.linkedin.com/in/mdshahbaj](https://www.linkedin.com/in/sajal-jain-3196b4240 )
 
 Looking forward to connecting with you! 🚀
 

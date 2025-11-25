@@ -1,6 +1,6 @@
 # E-commerce-DLT-Pipeline-with-SCD-Modeling
 
-Hey there! I'm Md Shahbaj, and I'm obsessed with cracking e-commerce data puzzles. After diving into Databricks, I decided to build a full-fledged Delta Live Tables (DLT) ETL pipeline that processes daily sales, product, and customer data across all categories. This repo documents that journey.
+Hey there! I'm Sajal Jain, and I'm obsessed with cracking e-commerce data puzzles. After diving into Databricks, I decided to build a full-fledged Delta Live Tables (DLT) ETL pipeline that processes daily sales, product, and customer data across all categories. This repo documents that journey.
 
 ---
 
